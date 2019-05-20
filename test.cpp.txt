@@ -1,4 +1,5 @@
-void testfunciton()
+﻿void testfunciton()
 {
 printf("testtest");
+我我我
 }
